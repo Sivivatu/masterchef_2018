@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2018.1">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings>
+        <Position x="105" y="125" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Text Box (163)">40EDE9D28A654791503737A137585A53240E5798D7B2DEB758FD4C8DBD9E15FCAA87E60212B24B3E17136975B5ACDA469F2975426C0DFF6B37ED7C9675819BB8952C6F7F2752B956F5C5AEEA8C539C89A21BBA0D9FAD81EF21123384C769E409BE6C113A8F24E87FD9F10BFC808BBDE624F3CBAF1807780B81BBD7297E1D3549B75C5AFF843F7C29A25083547DCF0BE4BB1956F6B0706B2CC9ED4433532492591C456EFC57EB346ACFE3A065B9A9BC9212251E2DDA5D866D7B746E87A440442F9300E96E25DCC2C5759264DF6134993197D724328AAB03792BF6575CE6D73</Value>
+          <Value name="Text Box (165)">480D898C9BD21FEC6ECD0C53C0F8F02CFDD1FA01C555571F4DA750951A795A861BBA8431F26A59BB7551D29ABE23F57280C38C7A0152AEF219C6A85BB2996DCDFB571CA8A57A4D47CC33A04E6C665125163F5C473DF565A9C231C1CD517A6C2B5C68AB1BF44EE52B49609FE14A952271C53EE79ED3DB1E9296FA9C9FBD92BBA7B374DAEF12B03ED65F09BA15CD8A9958B382707E6B4A87970763002AD529CDB273D214A8E965E5DC15C9AA942E5FF983AFA3E208F9F5C5637D584473BDEB25D7414E105DC61F548CB09896BA596C707A640A4E2994BC3E0F18F1A855009CAD6B4493AFDC6CB8EA6CB9D9BC59A4A35C9E2F79533E2CAFC62D4343C4A18BA1C58380298F815039881686AF828DFA7892EE2D2BF742E3322232BF30A8074B5F12A92219CE50E46B2CB4511B257CEE89B30DA4E95E67E52A1073E68CE174047F60EE47A8D187DF80EA7055675C35E323AF931BEC6B5007741E30C2467A77EF89C2C23B17055101F9344BC984F3A9729F3ED44031F1C927B61AF2D106A2A6DE93CB247F3317F06F01DA39B06ECB416DBFFF051004428E45D8FF4CF4141F4D533515E2DEC49BEABBDEA</Value>
+          <Value name="Text Box (167)">Masterchef 2018</Value>
+          <Value name="Numeric Up Down (110)">100000</Value>
+          <Value name="Radio Button Group (39)">True</Value>
+          <Value name="Text Box (7)" />
+          <Value name="Text Box (9)" />
+          <Value name="Text Box (12)">masterchef</Value>
+          <Value name="Text Box (14)" />
+          <Value name="Text Box (16)" />
+          <Value name="Text Box (18)" />
+          <Value name="Text Box (20)" />
+          <Value name="Text Box (26)" />
+          <Value name="Radio Button Group (41)">False</Value>
+          <Value name="Text Box (35)" />
+          <Value name="Check Box Group (125)">False</Value>
+          <Value name="Radio Button Group (81)">True</Value>
+          <Value name="Map (54)">&lt;Mode&gt;Draw&lt;/Mode&gt;&lt;ReferenceFile /&gt;&lt;JSMapSettings&gt;{"base":true,"drawn features":true}&lt;/JSMapSettings&gt;&lt;Bounds&gt;&lt;MinX&gt;-124.848975&lt;/MinX&gt;&lt;MaxX&gt;-66.885075&lt;/MaxX&gt;&lt;MinY&gt;24.396308&lt;/MinY&gt;&lt;MaxY&gt;49.384359&lt;/MaxY&gt;&lt;/Bounds&gt;&lt;NumRows value="0" /&gt;&lt;Fields&gt;&lt;Field name="SpatialObj" /&gt;&lt;/Fields&gt;&lt;Data /&gt;</Value>
+          <Value name="Radio Button Group (85)">False</Value>
+          <Value name="Text Box (69)" />
+          <Value name="Text Box (117)" />
+          <Value name="Drop Down (121)">AL</Value>
+          <Value name="Text Box (123)" />
+          <Value name="Numeric Up Down (63)">5</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Twitter Search\Twitter Search.yxmc" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="255" y="55" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_26236_fb747730d78741fdb663ecc936479368_\Engine_24036_5edcb8d4aa2b42b8a15383ccca1579ad_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="255" y="195" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_26236_fb747730d78741fdb663ecc936479368_\Engine_24036_8915a5827f574904af214e985a2b5819_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="255" y="115" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File FileFormat="19" MaxRecords="">./data/mc_tweets.yxdb</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <NoSpatialIndex>False</NoSpatialIndex>
+            <SaveSource>True</SaveSource>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>mc_tweets.yxdb</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Data" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="1" Connection="Summary" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="1" Connection="Data" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="False" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Tweetcollection</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="False" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
